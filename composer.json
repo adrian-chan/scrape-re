@@ -1,0 +1,17 @@
+{
+    "name": "adrian/scrape-re",
+    "description": "Scrapes real estate site",
+    "require": {
+        "guzzlehttp/guzzle": "6",
+        "fabpot/goutte": "^3.2",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "a.chan",
+            "email": "adrian.chan@iinet.net.au"
+        }
+    ]
+}
